@@ -1,8 +1,9 @@
 ---
+cover: ../.gitbook/assets/page-banner-bg.png
 coverY: 0
 ---
 
-# Roadmap
+# 🌟 Roadmap
 
 ## Phase 1
 
@@ -13,7 +14,7 @@ coverY: 0
 * [ ] BNBIN token presale
 * [ ] BNBIN token launch
 
-## Phase 2&#x20;
+## Phase 2
 
 * [ ] Start building the BNBIN Ecosystem
 * [ ] Improve the DAPP to provide more statistics, graphs and much more
