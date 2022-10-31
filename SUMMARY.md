@@ -8,5 +8,6 @@
 * [🌟 Sustainability](bnb-incubator/sustainability.md)
 * [🌟 How to Referral work](bnb-incubator/how-to-referral-work.md)
 * [🌟 BNBin Token](bnb-incubator/bnbin-token.md)
+* [🌟 Hold BNB-IN](bnb-incubator/hold-bnb-in.md)
 * [🌟 Security](bnb-incubator/security.md)
 * [🌟 Roadmap](bnb-incubator/roadmap.md)
