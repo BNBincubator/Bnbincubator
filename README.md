@@ -7,12 +7,14 @@ coverY: 0
 
 ## BNB INCUBATOR
 
-BNB is what INCUBATOR eat. Well fed INCUBATOR are happier and produce much more BNB-IN.\
-Just hold BNB-IN in your wallet and your INCUBATOR will automatically consume the BNB-IN to produce more BNB-IN.\
-\
+BNBincubator is a new trend, where our investors can monetize through our egg incubators, the more our BNB-IN are fed, the more they will yield and produce !
+
+With this, you only need to hold your BNB-IN in your wallets and our incubator will consume more and more of your BNB-IN, producing more BNB-IN, all in a totally automatic way.
+
+****\
 **BNB-IN is designed to keep sustainable for a very long time.**
 
-BNB-IN is what INCUBATOR eat. Well fed INCUBATOR are happier and produce much more BNB-IN. Just hold BNB-IN in your wallet and your INCUBATOR will automatically consume the BNB-IN to produce more BNB-IN. BNB-IN is designed to keep sustainable for a very long time. Therefore BNB-IN has a **10% tax** rate where **7%** get used to fill the pool and make it more sustainable. BNB-IN has a fixed "harvest rate" of X and gets consumed by chicken making it an asset that gets more and more deflationary.
+Therefore BNB-IN has a **10% tax** rate where **7%** get used to fill the pool and make it more sustainable. BNB-IN has a fixed "harvest rate" of X and gets consumed by chicken making it an asset that gets more and more deflationary.
 
 **See our incubators**
 
