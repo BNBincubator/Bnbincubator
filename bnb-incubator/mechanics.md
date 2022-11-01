@@ -7,7 +7,7 @@ coverY: 0
 
 ## The Mechanics How BNB-IN is built
 
-To start earning rewards, you need to "sacrifice" **$BNB** in our dApp. You spend them, and will be rewarded with bnb-in. Those BNB-IN will immediately start laying eggs.&#x20;
+To start earning rewards, you need to "Consume" **$BNB** in our dApp. You spend them, and will be rewarded with bnb-in. Those BNB-IN will immediately start laying eggs.&#x20;
 
 **What do I do with my eggs ? Eggs can be used in 2 ways:**&#x20;
 
@@ -26,4 +26,4 @@ See below:&#x20;
 
 Hatch eggs for 6 days and sell eggs 1 day a week. It will compound your investment and you will receive your initial back in 6-8 weeks.
 
-<figure><img src="../.gitbook/assets/B.JPG" alt=""><figcaption></figcaption></figure>
+{% embed url="https://app.bnbincubator.io/" %}

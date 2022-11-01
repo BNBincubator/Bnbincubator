@@ -7,9 +7,7 @@ coverY: 0
 
 **Just hold BNB-IN in your wallet and your INCUBATOR will automatically consume the BNB-IN to produce more BNBIN.**
 
-{% embed url="https://www.bnbincubator.io" %}
-
-****
+{% embed url="https://app.bnbincubator.io/" %}
 
 [\
 ](https://www.bnbincubator.io)

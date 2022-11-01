@@ -16,5 +16,3 @@ BNB-IN is the FIRST miner that is sustainable for a very long time due to it's u
 * 10% trading fee on the $BNB-IN token from which **7%** feed the pool making it grow and act as buffer.
 * Auto-Strategies: Make sure invesors don't accumulate large anount of eggs they could panicsell. In fact no account can sccumulate eggs for more than 2 days.
 * Smart-Slippage: Makes sure whales can't drain the pool at once protecting investments. Smart-Slippage is designed to auto-Increase during times of low demand, making sure the pool can't be drained quickly.
-
-<figure><img src="../.gitbook/assets/D.JPG" alt=""><figcaption></figcaption></figure>

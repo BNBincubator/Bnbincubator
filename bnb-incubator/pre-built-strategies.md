@@ -17,4 +17,4 @@ Our Pre-Built Strategies Automatic and Manual Strategies One of the key features
 * The **4:1** strategy In this strategy, the contract will hatch your eggs (Compound) once a day for 4 days, and then withdraw your eggs in the 5th and send them directly to your wallet in form of BNB. Since you're eating eggs more frequently, you can expect less rewards.&#x20;
 * The **0:1** strategy (Not recommended) In this strategy, the contract will withdraws your eggs everyday sends them directly to your wallet in form of BNB. This is the worst strategy ever, and we don't recommended using it since you'll be getting the lowest rewards.
 
-<figure><img src="../.gitbook/assets/a.JPG" alt=""><figcaption><p><strong>Pre-Built Strategies</strong></p></figcaption></figure>
+{% embed url="https://app.bnbincubator.io/" %}

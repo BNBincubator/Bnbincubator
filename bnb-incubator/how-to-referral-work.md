@@ -11,4 +11,4 @@ Earn **10%** of the BNB used to hire Incubator from anyone who uses your referra
 
 The reference gain is instantaneous Earn **10%** of referral and also earn **10%** when your referral make sale
 
-<figure><img src="../.gitbook/assets/C.JPG" alt=""><figcaption></figcaption></figure>
+{% embed url="https://app.bnbincubator.io/" %}

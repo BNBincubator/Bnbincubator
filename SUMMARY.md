@@ -11,3 +11,4 @@
 * [🌟 Hold BNB-IN](bnb-incubator/hold-bnb-in.md)
 * [🌟 Security](bnb-incubator/security.md)
 * [🌟 Roadmap](bnb-incubator/roadmap.md)
+* [🌟 Social Media](bnb-incubator/social-media.md)
