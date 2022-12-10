@@ -13,7 +13,7 @@ The reference gain is instantaneous Earn **10%** of referral and also earn **10%
 
 **How to set Referral:**
 
-**Step 1:** Open the **** RevoDAO dapp: [BNB Incubator](https://app.gitbook.com/o/cTBXV1wIRPU3IgvlMP8Y/s/s6PSixLgTFIqMm3sGIwL/ "mention")
+**Step 1:** Open the **BNB incubator** dapp: [BNB Incubator](https://app.gitbook.com/o/cTBXV1wIRPU3IgvlMP8Y/s/s6PSixLgTFIqMm3sGIwL/ "mention")
 
 <figure><img src="../.gitbook/assets/REFE . 1.png" alt=""><figcaption></figcaption></figure>
 
