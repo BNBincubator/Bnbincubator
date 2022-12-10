@@ -7,11 +7,11 @@ coverY: 0
 
 ## The BNBIN token
 
-Presale Address:
+Presale Address:&#x20;
 
-Token Name:
+Token Name: BNB Incubator
 
-Token Symbol
+Token Symbol: BNBIN
 
 {% embed url="https://www.pinksale.finance/" %}
 **FAIRLAUNCH - PINKSALE**
