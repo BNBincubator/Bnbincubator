@@ -7,9 +7,9 @@ coverY: 0
 
 ## BNB INCUBATOR
 
-BNBincubator is a new trend, where our investors can monetize through our egg incubators, the more our BNB-IN are fed, the more they will yield and produce !
+BNB incubator is an egg incubator with a huge **APY 3.562%** where we will reward our investors with daily returns of **5% to 8%**, according to the selected eggs.
 
-With this, you only need to hold your BNB-IN in your wallets and our incubator will consume more and more of your BNB-IN, producing more BNB-IN, all in a totally automatic way.
+Our APY is fully dynamic, where its mining is by trading volume, with this we are able to ensure profit to our investors and above all sustainability.
 
 ****\
 **BNB-IN is designed to keep sustainable for a very long time.**

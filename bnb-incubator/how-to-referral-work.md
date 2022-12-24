@@ -9,7 +9,7 @@ coverY: 0
 
 Earn **10%** of the BNB used to hire Incubator from anyone who uses your referral link.&#x20;
 
-The reference gain is instantaneous Earn **10%** of referral and also earn **10%** when your referral make sale
+Share your referral link to get a **10%** referral fee from every person that makes a deposit using your link.
 
 **How to set Referral:**
 
